@@ -1,0 +1,3 @@
+test system with fake info vnpt
+username: test
+password: 123
